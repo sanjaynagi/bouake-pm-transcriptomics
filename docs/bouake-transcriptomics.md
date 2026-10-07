@@ -168,14 +168,15 @@ Phased biallelic SNPs within *ABCH1* (2R:24,825,285–24,848,323) were extracted
 
 **Statistics**
 
-Inversion frequencies were compared between survivors and controls with Welch's t-test across samples, without correction for the number of comparisons. Fisher's exact test was used for comparisons of counts. Analyses were run in Python (pixi-managed environment; code in the project repository).
+Inversion frequencies were compared between survivors and controls with Welch's t-test across samples, without correction for the number of comparisons. Fisher's exact test was used for comparisons of counts. Analyses were run in Python in a pixi-managed environment; code is available at https://github.com/sanjaynagi/bouake-pm-transcriptomics.
 
 **Vgsc haplotype background**
 
 To establish which haplotypes carry F1529C we used *An. coluzzii* in the MalariaGEN Ag3 resource (malariagen\_data Python package), restricted to sample sets whose terms of use allow unrestricted use (`unrestricted_use` in the Ag3 sample-set table); sets still under a use restriction were excluded. Genotypes at *Vgsc* codons 402, 1527 and 1529 (transcript AGAP004707-RD) were identified by nucleotide: V402L as G>T or G>C at 2L:2,391,228 (G>A, which encodes V402I, was not counted), I1527T as T>C at 2L:2,429,617 and F1529C as T>G at 2L:2,429,623. The Ag3 phased haplotypes (*gamb\_colu* analysis) are biallelic and omit V402L and F1529C, so each V402L substitution was phased onto the surrounding phased scaffold with a copying-model method developed for the selection atlas (ref), which compares the two haplotypes of each heterozygote against the other carriers and non-carriers in a window of 1,500 scaffold SNPs; a site is declined if more than 2% of its heterozygotes cannot be separated or if it shows an excess of heterozygotes. Both V402L substitutions passed (0.05% and 0% of heterozygotes tied). F1529C was declined (34% of 180 heterozygotes tied), so haplotypes were assigned from copy number: because every carrier also carried I1527T, 1529C was placed on every 1527T haplotype of a sample when the sample's 1529C copy number equalled its number of 1527T haplotypes, on none when it was zero, and the sample was excluded otherwise. To ask whether 1529C arose separately on the two 402L backgrounds, the SNP within 25 kb of codon 1529 that best separated non-carrier haplotypes on the G>T and G>C backgrounds (150 sampled per background) was identified using non-carriers only, and the frequency of the G>T lineage's allele was then tabulated in the 1529C haplotypes, which were not used to choose it. Scripts are in the project repository (analysis/f1529c).
 
 **Data availability**  
-Raw sequencing data have been deposited in the Sequence Read Archive (SRA) under BioProject accession PRJNA1134421.
+Raw sequencing data have been deposited in the Sequence Read Archive (SRA) under BioProject accession PRJNA1134421.  
+Analysis code, manuscript figure scripts and result tables are available at https://github.com/sanjaynagi/bouake-pm-transcriptomics.
 
 **Author contributions**
 
