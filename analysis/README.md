@@ -26,3 +26,23 @@ manuscript figure scripts in `figures_ms/` read from there.
 ## Manuscript figures (`figures_ms/`)
 `figure_gsea.py` (Fig. 2), `figure_variants.py` (Fig. 3), `figure_abch1.py` (Fig. 4), `figure_supp_f1529c.py` (Supp. Fig. 2),
 with `figure_f1529c*.py` for the future Ag3 paper.
+
+## rnaseq/ — transcriptomic results (reads processed by RNA-Seq-Pop, see `workflow/`)
+| Paper result | Code | Input in this repository |
+|---|---|---|
+| DE values quoted in the text | `rnaseq/01_de_numbers.py` | `results/BouakePM_diffexp.xlsx` |
+| Fig. 2 enrichment | `figures_ms/figure_gsea.py` | `figures_ms/gsea-bouake.xlsx` |
+| Fig. 3 variants of interest | `figures_ms/figure_variants.py` | `results/variantsOfInterest/csvs/` |
+| ABC/OBP, sweeps, ABCH1 (Fig. 4) | `abc_obp/`, `figures_ms/figure_abch1.py` | Ag3 via `malariagen_data` |
+| F1529C (Supp. Fig. 2) | `f1529c/`, `figures_ms/figure_supp_f1529c.py` | Ag3 and Fig. 3 read counts |
+
+## Not yet reproducible from this repository
+These results come from RNA-Seq-Pop outputs or files that are not in the repo; the old exploratory notebooks
+(`figures_ms/*.ipynb`, `results/notebooks/`) point at paths on other machines.
+- Read and alignment totals (1.463 billion reads; 85.71% alignment) — Kallisto/fastp summaries.
+- PCA and volcano plots (Fig. 1B, C) — normalised counts and gene-level DE tables (`old_results/genediff`).
+- Bioassay mortality (Fig. 1A) — `resources/bioassay_data.xlsx`.
+- Ancestry (AIM) proportions — per-sample AIM table; the values in the manuscript are typed into `figure_variants.py`.
+- Karyotype frequencies and Welch tests — per-sample karyotype tables. The rendered notebook
+  `results/notebooks/karyotype.ipynb` lists 21 samples (three coluzzii control and survivor samples) and does
+  not reproduce the P values in the paper (2Rb coluzzii: 0.023 from the rounded table, 0.006 in the text).
