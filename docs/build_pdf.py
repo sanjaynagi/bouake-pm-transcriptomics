@@ -39,11 +39,12 @@ th, td { padding: 3px 6px; text-align: left; vertical-align: top; }
 table:has(img) { page-break-inside: avoid; border: none; margin: 1em 0 1.4em 0; }
 table:has(img) th, table:has(img) td { border: none; padding: 2px 0; font-size: 0.9em; line-height: 1.35; }
 table:has(img) th { padding-bottom: 8px; }
+table:has(img) td { text-align: justify; hyphens: auto; }
 table:not(:has(img)) th, table:not(:has(img)) td { border-bottom: 1px solid #ddd; }
 table:not(:has(img)) th { border-bottom: 1.5px solid #666; font-family: 'Helvetica Neue', Arial, sans-serif; }
 table:not(:has(img)) { page-break-inside: avoid; }
 sup { font-size: 0.75em; line-height: 0; }
-p:has(+ table) { break-after: avoid; text-align: left; }
+p:has(+ table) { break-after: avoid; }
 """
 
 
