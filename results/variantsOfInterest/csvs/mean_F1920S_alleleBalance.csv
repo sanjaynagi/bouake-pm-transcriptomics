@@ -1,0 +1,7 @@
+chrom,pos,ref,mutation,treatment,cov_mean,A_mean,C_mean,G_mean,T_mean,lowerCI,upperCI,proportionC
+2L,2431019,T,F1920S,coluzziiCont,73.5,0,0,0,72.5,0,0,0
+2L,2431019,T,F1920S,coluzziiPM,70,0,0,0,69.5,0,0,0
+2L,2431019,T,F1920S,gambiaeCont,82.5,0,0,0,81.75,0,0,0
+2L,2431019,T,F1920S,gambiaePM,82.25,0,0,0,81.75,0,0,0
+2L,2431019,T,F1920S,Kisumu,113.75,0,0,0,113.5,0,0,0
+2L,2431019,T,F1920S,Ngousso,117.75,0,0,0,116.75,0,0,0

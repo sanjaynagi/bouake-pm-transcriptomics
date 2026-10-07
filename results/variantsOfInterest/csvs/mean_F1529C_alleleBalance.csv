@@ -1,0 +1,7 @@
+chrom,pos,ref,mutation,treatment,cov_mean,A_mean,C_mean,G_mean,T_mean,lowerCI,upperCI,proportionG
+2L,2429623,T,F1529C,coluzziiCont,50.25,0,0,2.25,47,0,0.247451915393134,0.0447761194029851
+2L,2429623,T,F1529C,coluzziiPM,40,0,0,4.5,35,0,0.422161004164231,0.1125
+2L,2429623,T,F1529C,gambiaeCont,53.5,0,0,0,52.5,0,0,0
+2L,2429623,T,F1529C,gambiaePM,51.5,0,0,0,51,0,0,0
+2L,2429623,T,F1529C,Kisumu,58.75,0,0,0,58,0,0,0
+2L,2429623,T,F1529C,Ngousso,77.75,0,0,0,76.75,0,0,0

@@ -1,0 +1,56 @@
+[project]
+name = "bouake"
+version = "0.1.0"
+description = "Transcriptomic and WGS analyses for Bouaké An. gambiae / An. coluzzii pirimiphos-methyl resistance study"
+requires-python = ">= 3.11"
+dependencies = []
+
+[tool.pixi.workspace]
+channels = ["conda-forge", "bioconda"]
+platforms = ["osx-arm64"]
+
+[tool.pixi.activation]
+env = { PYTHONPATH = "$PIXI_PROJECT_ROOT/src" }
+
+[tool.pixi.dependencies]
+python = ">=3.11,<3.13"
+pandas = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+plotly = "*"
+scikit-allel = "*"
+zarr = "<3"
+numcodecs = "<0.16"
+ipykernel = "*"
+pip = "*"
+openpyxl = "*"
+xlsxwriter = "*"
+tqdm = "*"
+pyranges = "*"
+pyshp = ">=3.1.6,<4"
+
+[tool.pixi.pypi-dependencies]
+malariagen_data = "*"
+anoexpress = "*"
+# Jupyter stack pinned for datalayer jupyter-mcp-server compatibility.
+jupyterlab = "==4.4.1"
+jupyter-collaboration = "==4.0.2"
+jupyter-mcp-tools = ">=0.1.4"
+datalayer_pycrdt = "==0.12.17"
+
+[tool.pixi.feature.dev.dependencies]
+pytest = "*"
+ruff = "*"
+
+[tool.pixi.feature.dev.pypi-dependencies]
+ty = "*"
+
+[tool.pixi.environments]
+default = { solve-group = "default" }
+dev = { features = ["dev"], solve-group = "default" }
+
+[tool.pixi.tasks]
+lab = "jupyter lab --port 8888 --IdentityProvider.token bouake-dev-token --ip 127.0.0.1"
+fix-pycrdt = "python -m pip uninstall -y pycrdt datalayer_pycrdt && python -m pip install datalayer_pycrdt==0.12.17"

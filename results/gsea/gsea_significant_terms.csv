@@ -1,0 +1,40 @@
+annotation,database,label,padj_gambiae,padj_coluzzii,cluster
+ABC_tran,PFAM,ABC transporter,1.36209475217807e-09,1.0,ABC transporters
+ABC_membrane,PFAM,ABC transmembrane region,3.15453723465295e-05,1.0,ABC transporters
+GO:0042626,GO,ATPase-coupled transmembrane transporter activity,0.0002681451062539,1.0,ABC transporters
+aga02010,KEGG,ABC transporters,0.00153911441821188,0.966246697828781,ABC transporters
+ABC2_membrane_3,PFAM,ABC-2 transporter,0.00531931139039283,1.0,ABC transporters
+ERAP1_C,PFAM,ERAP1-like C-terminal domain,3.15453723465295e-05,1.0,Aminopeptidases
+Peptidase_M1,PFAM,Peptidase M1 N-terminal,0.000115746159113786,1.0,Aminopeptidases
+GO:0043171,GO,peptide catabolic process,0.000778939979731166,1.0,Aminopeptidases
+GO:0070006,GO,metalloaminopeptidase activity,0.00155235972910101,1.0,Aminopeptidases
+GO:0042277,GO,peptide binding,0.00361023009763323,1.0,Aminopeptidases
+GO:0004177,GO,aminopeptidase activity,0.00411643537648753,1.0,Aminopeptidases
+aga04141,KEGG,Protein processing in endoplasmic reticulum,0.000325635095812794,1.0,Chaperones and protein folding
+HSP90,PFAM,Hsp90 protein,0.00111637594213634,1.0,Chaperones and protein folding
+GO:0051082,GO,unfolded protein binding,0.00205470250576056,1.0,Chaperones and protein folding
+HSP70,PFAM,Hsp70 protein,0.0276790938030609,1.0,Chaperones and protein folding
+HATPase_c,PFAM,Histidine kinase-like ATPase,0.0339492285031168,1.0,Chaperones and protein folding
+GO:0034605,GO,cellular response to heat,0.0417446486295587,1.0,Chaperones and protein folding
+CBM_14,PFAM,Chitin-binding domain,7.40046150532057e-20,1.0,Chitin-binding domain
+DUF753,PFAM,Domain of unknown function,1.0,9.48276458805182e-16,DUF753 (unknown function)
+GO:0006629,GO,lipid metabolic process,0.000418286593111535,0.105709749723922,Lipid metabolism
+GO:0004806,GO,triglyceride lipase activity,0.00304530384576677,0.974737819745875,Lipid metabolism
+GO:0035274,GO,diphenyl phthalate binding,0.198778899922102,0.00110497029726716,Odorant-binding proteins
+GO:0035275,GO,dibutyl phthalate binding,0.198778899922102,0.00110497029726716,Odorant-binding proteins
+PBP_GOBP,PFAM,Pheromone/general odorant-binding protein,0.261318265949214,6.99992543360973e-08,Odorant-binding proteins
+GO:0042048,GO,olfactory behavior,0.4921160999659,0.0059897754163003,Odorant-binding proteins
+GO:0005549,GO,odorant binding,1.0,7.03085374500918e-07,Odorant-binding proteins
+GO:0007608,GO,sensory perception of smell,1.0,6.8803195055691e-06,Odorant-binding proteins
+GO:0055085,GO,transmembrane transport,3.48920444320342e-12,1.0,Transmembrane transport
+GO:0016021,GO,integral component of membrane,2.30167080107939e-09,1.0,Transmembrane transport
+GO:0022857,GO,transmembrane transporter activity,1.22531352851224e-08,1.0,Transmembrane transport
+GO:0016020,GO,membrane,1.87368951938407e-07,1.0,Transmembrane transport
+GO:1902600,GO,proton transmembrane transport,0.00304988945707095,1.0,Transmembrane transport
+MFS_1,PFAM,Major facilitator superfamily,0.0121877462312963,1.0,Transmembrane transport
+ubiquitin,PFAM,Ubiquitin family,1.36209475217807e-09,1.0,Ubiquitin family
+GO:0016887,GO,ATP hydrolysis activity,0.00204765910047024,1.0,unclustered
+GO:0016936,GO,galactoside binding,0.00304530384576677,1.0,unclustered
+aga04145,KEGG,Phagosome,0.0145560489657382,0.966246697828781,unclustered
+aga04214,KEGG,Apoptosis - fly,0.0395666173530444,1.0,unclustered
+GO:0097718,GO,disordered domain specific binding,0.0417446486295587,1.0,unclustered

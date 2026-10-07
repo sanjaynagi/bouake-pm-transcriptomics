@@ -1,0 +1,5 @@
+group,n_haplotypes,share_with_lineage_allele,position,offset_bp
+"non-carriers, 402L G>T",150,0.86,2421454,-8169
+"non-carriers, 402L G>C",150,0.006666666666666667,2421454,-8169
+"F1529C carriers, 402L G>T",39,0.0,2421454,-8169
+"F1529C carriers, 402L G>C",110,0.0,2421454,-8169

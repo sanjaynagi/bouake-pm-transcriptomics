@@ -1,0 +1,31 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# macOS
+.DS_Store
+
+# Jupyter collaboration / runtime state
+.jupyter/
+.jupyter_ystore.db
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local caches
+ag3_cache/
+
+# Local tooling and machine-specific settings
+.claude/
+.mcp.json
+
+# Regenerable caches and build artefacts
+results/abc_obp/cache/
+docs/*.pdf
+docs/*.bak
+docs/.*.bak
+
+# Third-party published figure kept locally for reference only
+ingham-sap2-nature-fig.png

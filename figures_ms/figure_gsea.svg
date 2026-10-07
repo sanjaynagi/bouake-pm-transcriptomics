@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="449.76pt" viewBox="0 0 518.4 449.76" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-07T19:19:21.887734</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 449.76 
+L 518.4 449.76 
+L 518.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.552 373.3008 
+L 180.091185 373.3008 
+L 180.091185 38.2296 
+L 15.552 38.2296 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 180.091185 373.3008 
+L 180.091185 38.2296 
+" clip-path="url(#pe17e3aca1a)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m3c19ffb8c8" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="180.091185" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="180.091185" y="385.9258" transform="rotate(-0 180.091185 385.9258)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 140.915189 373.3008 
+L 140.915189 38.2296 
+" clip-path="url(#pe17e3aca1a)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="140.915189" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="140.915189" y="385.9258" transform="rotate(-0 140.915189 385.9258)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 101.739192 373.3008 
+L 101.739192 38.2296 
+" clip-path="url(#pe17e3aca1a)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="101.739192" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="101.739192" y="385.9258" transform="rotate(-0 101.739192 385.9258)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 62.563196 373.3008 
+L 62.563196 38.2296 
+" clip-path="url(#pe17e3aca1a)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="62.563196" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="62.563196" y="385.9258" transform="rotate(-0 62.563196 385.9258)">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 23.387199 373.3008 
+L 23.387199 38.2296 
+" clip-path="url(#pe17e3aca1a)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="23.387199" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="23.387199" y="385.9258" transform="rotate(-0 23.387199 385.9258)">20</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <!-- $-\log_{10}$(adjusted $P$) -->
+     <g transform="translate(59.784092 398.748066)">
+      <text>
+       <tspan x="0" y="-0.8125" style="font-size: 8.5px; font-family: 'DejaVu Sans'">−</tspan>
+       <tspan x="7.12207" y="-0.8125" style="font-size: 8.5px; font-family: 'DejaVu Sans'">l</tspan>
+       <tspan x="9.483643" y="-0.8125" style="font-size: 8.5px; font-family: 'DejaVu Sans'">o</tspan>
+       <tspan x="14.684082" y="-0.8125" style="font-size: 8.5px; font-family: 'DejaVu Sans'">g</tspan>
+       <tspan x="20.161074" y="0.584375" style="font-size: 5.95px; font-family: 'DejaVu Sans'">1</tspan>
+       <tspan x="23.946646" y="0.584375" style="font-size: 5.95px; font-family: 'DejaVu Sans'">0</tspan>
+       <tspan x="29.345062" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">(</tspan>
+       <tspan x="32.09906" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">a</tspan>
+       <tspan x="36.723053" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">d</tspan>
+       <tspan x="41.806045" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">j</tspan>
+       <tspan x="44.186035" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">u</tspan>
+       <tspan x="49.133041" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">s</tspan>
+       <tspan x="53.102539" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">t</tspan>
+       <tspan x="56.171035" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">e</tspan>
+       <tspan x="60.803527" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">d</tspan>
+       <tspan x="65.88652" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'"> </tspan>
+       <tspan x="73.264755" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">)</tspan>
+       <tspan x="68.139022" y="-0.8125" style="font-style: oblique; font-size: 8.5px; font-family: 'DejaVu Sans'">P</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_11">
+    <path d="M 169.897356 373.3008 
+L 169.897356 38.2296 
+" clip-path="url(#pe17e3aca1a)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #6a6a6a; stroke-width: 0.6"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 15.552 373.3008 
+L 180.091185 373.3008 
+" style="fill: none; stroke: #4a4a4a; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 180.091185 66.672943 
+L 30.198015 66.672943 
+L 30.198015 80.894615 
+L 180.091185 80.894615 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: #5d69b1; opacity: 0.95"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 180.091185 116.233313 
+L 110.625932 116.233313 
+L 110.625932 130.454985 
+L 180.091185 130.454985 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: #5d69b1; opacity: 0.95"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 180.091185 137.781301 
+L 90.321163 137.781301 
+L 90.321163 152.002972 
+L 180.091185 152.002972 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: #5d69b1; opacity: 0.95"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 180.091185 187.341671 
+L 110.625932 187.341671 
+L 110.625932 201.563343 
+L 180.091185 201.563343 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: #5d69b1; opacity: 0.95"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 180.091185 208.889658 
+L 152.767739 208.889658 
+L 152.767739 223.11133 
+L 180.091185 223.11133 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: #5d69b1; opacity: 0.95"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 180.091185 230.437645 
+L 144.824449 230.437645 
+L 144.824449 244.659317 
+L 180.091185 244.659317 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: #5d69b1; opacity: 0.95"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 180.091185 279.998016 
+L 153.61976 279.998016 
+L 153.61976 294.219687 
+L 180.091185 294.219687 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: #5d69b1; opacity: 0.95"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 180.091185 329.558386 
+L 174.593776 329.558386 
+L 174.593776 343.780058 
+L 180.091185 343.780058 
+L 180.091185 329.558386 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: none; opacity: 0.55; stroke: #5d69b1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 180.091185 351.106373 
+L 180.091185 351.106373 
+L 180.091185 365.328045 
+L 180.091185 365.328045 
+L 180.091185 351.106373 
+z
+" clip-path="url(#pe17e3aca1a)" style="fill: none; opacity: 0.55; stroke: #5d69b1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #1a1a1a" x="27.455695" y="75.555982" transform="rotate(-0 27.455695 75.555982)">7e-20</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #1a1a1a" x="107.883613" y="125.116352" transform="rotate(-0 107.883613 125.116352)">1e-9</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #1a1a1a" x="87.578843" y="146.664339" transform="rotate(-0 87.578843 146.664339)">3e-12</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #1a1a1a" x="107.883613" y="196.22471" transform="rotate(-0 107.883613 196.22471)">1e-9</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #1a1a1a" x="150.025419" y="217.772697" transform="rotate(-0 150.025419 217.772697)">3e-4</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #1a1a1a" x="142.082129" y="239.320684" transform="rotate(-0 142.082129 239.320684)">3e-5</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #1a1a1a" x="150.87744" y="288.881055" transform="rotate(-0 150.87744 288.881055)">4e-4</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #6a6a6a" x="171.851457" y="338.530628" transform="rotate(-0 171.851457 338.530628)">n.s. (0.20)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: end; fill: #6a6a6a" x="177.348865" y="360.078615" transform="rotate(-0 177.348865 360.078615)">n.s. (1.00)</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="line2d_12">
+    <path d="M 198.300188 59.346627 
+L 322.691812 59.346627 
+" clip-path="url(#p6c04a4a345)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 198.300188 108.906998 
+L 322.691812 108.906998 
+" clip-path="url(#p6c04a4a345)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 198.300188 180.015355 
+L 322.691812 180.015355 
+" clip-path="url(#p6c04a4a345)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 198.300188 272.6717 
+L 322.691812 272.6717 
+" clip-path="url(#p6c04a4a345)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 198.300188 322.23207 
+L 322.691812 322.23207 
+" clip-path="url(#p6c04a4a345)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="73.466145" transform="rotate(-0 260.496 73.466145)">Chitin-binding domain</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="82.034323" transform="rotate(-0 260.496 82.034323)">single term</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="122.906516" transform="rotate(-0 260.496 122.906516)">ABC transporters</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="131.500194" transform="rotate(-0 260.496 131.500194)">5 terms merged</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="144.454503" transform="rotate(-0 260.496 144.454503)">Transmembrane transport</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="153.048181" transform="rotate(-0 260.496 153.048181)">6 terms merged</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="194.134873" transform="rotate(-0 260.496 194.134873)">Ubiquitin family</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="202.703051" transform="rotate(-0 260.496 202.703051)">single term</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="215.68286" transform="rotate(-0 260.496 215.68286)">Chaperones and protein folding</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="224.156538" transform="rotate(-0 260.496 224.156538)">6 terms merged</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="237.230848" transform="rotate(-0 260.496 237.230848)">Aminopeptidases</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="245.704526" transform="rotate(-0 260.496 245.704526)">6 terms merged</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="286.791218" transform="rotate(-0 260.496 286.791218)">Lipid metabolism</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="295.264896" transform="rotate(-0 260.496 295.264896)">2 terms merged</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="336.351588" transform="rotate(-0 260.496 336.351588)">Odorant-binding proteins</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="344.825266" transform="rotate(-0 260.496 344.825266)">6 terms merged</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8px; font-family: 'Fira Sans'; text-anchor: middle; fill: #1a1a1a" x="260.496" y="357.887701" transform="rotate(-0 260.496 357.887701)">DUF753 (unknown function)</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.3px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="366.467754" transform="rotate(-0 260.496 366.467754)">single term</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="55.058543" transform="rotate(-0 260.496 55.058543)">CUTICLE</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="104.618913" transform="rotate(-0 260.496 104.618913)">TRANSPORT</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="175.727271" transform="rotate(-0 260.496 175.727271)">PROTEIN HOMEOSTASIS</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="268.383615" transform="rotate(-0 260.496 268.383615)">LIPID METABOLISM</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 6.5px; font-family: 'Fira Sans'; text-anchor: middle; fill: #6a6a6a" x="260.496" y="317.943986" transform="rotate(-0 260.496 317.943986)">OLFACTION</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_13">
+    <path d="M 340.900815 373.3008 
+L 505.44 373.3008 
+L 505.44 38.2296 
+L 340.900815 38.2296 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_17">
+      <path d="M 340.900815 373.3008 
+L 340.900815 38.2296 
+" clip-path="url(#pdf6828e0e7)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="340.900815" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="340.900815" y="385.9258" transform="rotate(-0 340.900815 385.9258)">0</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_19">
+      <path d="M 380.076811 373.3008 
+L 380.076811 38.2296 
+" clip-path="url(#pdf6828e0e7)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="380.076811" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="380.076811" y="385.9258" transform="rotate(-0 380.076811 385.9258)">5</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_21">
+      <path d="M 419.252808 373.3008 
+L 419.252808 38.2296 
+" clip-path="url(#pdf6828e0e7)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="419.252808" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="419.252808" y="385.9258" transform="rotate(-0 419.252808 385.9258)">10</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_23">
+      <path d="M 458.428804 373.3008 
+L 458.428804 38.2296 
+" clip-path="url(#pdf6828e0e7)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="458.428804" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="458.428804" y="385.9258" transform="rotate(-0 458.428804 385.9258)">15</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_25">
+      <path d="M 497.604801 373.3008 
+L 497.604801 38.2296 
+" clip-path="url(#pdf6828e0e7)" style="fill: none; stroke: #e6e6e6; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m3c19ffb8c8" x="497.604801" y="373.3008" style="stroke: #000000; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font-size: 7.5px; font-family: 'Fira Sans'; text-anchor: middle" x="497.604801" y="385.9258" transform="rotate(-0 497.604801 385.9258)">20</text>
+     </g>
+    </g>
+    <g id="text_44">
+     <!-- $-\log_{10}$(adjusted $P$) -->
+     <g transform="translate(385.132908 398.748066)">
+      <text>
+       <tspan x="0" y="-0.8125" style="font-size: 8.5px; font-family: 'DejaVu Sans'">−</tspan>
+       <tspan x="7.12207" y="-0.8125" style="font-size: 8.5px; font-family: 'DejaVu Sans'">l</tspan>
+       <tspan x="9.483643" y="-0.8125" style="font-size: 8.5px; font-family: 'DejaVu Sans'">o</tspan>
+       <tspan x="14.684082" y="-0.8125" style="font-size: 8.5px; font-family: 'DejaVu Sans'">g</tspan>
+       <tspan x="20.161074" y="0.584375" style="font-size: 5.95px; font-family: 'DejaVu Sans'">1</tspan>
+       <tspan x="23.946646" y="0.584375" style="font-size: 5.95px; font-family: 'DejaVu Sans'">0</tspan>
+       <tspan x="29.345062" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">(</tspan>
+       <tspan x="32.09906" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">a</tspan>
+       <tspan x="36.723053" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">d</tspan>
+       <tspan x="41.806045" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">j</tspan>
+       <tspan x="44.186035" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">u</tspan>
+       <tspan x="49.133041" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">s</tspan>
+       <tspan x="53.102539" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">t</tspan>
+       <tspan x="56.171035" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">e</tspan>
+       <tspan x="60.803527" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">d</tspan>
+       <tspan x="65.88652" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'"> </tspan>
+       <tspan x="73.264755" y="-0.8125" style="font-size: 8.5px; font-family: 'Fira Sans'">)</tspan>
+       <tspan x="68.139022" y="-0.8125" style="font-style: oblique; font-size: 8.5px; font-family: 'DejaVu Sans'">P</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_27">
+    <path d="M 351.094644 373.3008 
+L 351.094644 38.2296 
+" clip-path="url(#pdf6828e0e7)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #6a6a6a; stroke-width: 0.6"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 340.900815 373.3008 
+L 505.44 373.3008 
+" style="fill: none; stroke: #4a4a4a; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 340.900815 66.672943 
+L 340.900815 66.672943 
+L 340.900815 80.894615 
+L 340.900815 80.894615 
+L 340.900815 66.672943 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: none; opacity: 0.55; stroke: #e58606; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 340.900815 116.233313 
+L 341.017653 116.233313 
+L 341.017653 130.454985 
+L 340.900815 130.454985 
+L 340.900815 116.233313 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: none; opacity: 0.55; stroke: #e58606; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 340.900815 137.781301 
+L 340.900815 137.781301 
+L 340.900815 152.002972 
+L 340.900815 152.002972 
+L 340.900815 137.781301 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: none; opacity: 0.55; stroke: #e58606; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 340.900815 187.341671 
+L 340.900815 187.341671 
+L 340.900815 201.563343 
+L 340.900815 201.563343 
+L 340.900815 187.341671 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: none; opacity: 0.55; stroke: #e58606; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 340.900815 208.889658 
+L 340.900815 208.889658 
+L 340.900815 223.11133 
+L 340.900815 223.11133 
+L 340.900815 208.889658 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: none; opacity: 0.55; stroke: #e58606; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 340.900815 230.437645 
+L 340.900815 230.437645 
+L 340.900815 244.659317 
+L 340.900815 244.659317 
+L 340.900815 230.437645 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: none; opacity: 0.55; stroke: #e58606; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 340.900815 279.998016 
+L 348.547068 279.998016 
+L 348.547068 294.219687 
+L 340.900815 294.219687 
+L 340.900815 279.998016 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: none; opacity: 0.55; stroke: #e58606; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 340.900815 329.558386 
+L 396.960934 329.558386 
+L 396.960934 343.780058 
+L 340.900815 343.780058 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: #e58606; opacity: 0.95"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 340.900815 351.106373 
+L 458.609523 351.106373 
+L 458.609523 365.328045 
+L 340.900815 365.328045 
+z
+" clip-path="url(#pdf6828e0e7)" style="fill: #e58606; opacity: 0.95"/>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #6a6a6a" x="343.643135" y="75.645185" transform="rotate(-0 343.643135 75.645185)">n.s. (1.00)</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #6a6a6a" x="343.759973" y="125.205555" transform="rotate(-0 343.759973 125.205555)">n.s. (0.97)</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #6a6a6a" x="343.643135" y="146.753543" transform="rotate(-0 343.643135 146.753543)">n.s. (1.00)</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #6a6a6a" x="343.643135" y="196.313913" transform="rotate(-0 343.643135 196.313913)">n.s. (1.00)</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #6a6a6a" x="343.643135" y="217.8619" transform="rotate(-0 343.643135 217.8619)">n.s. (1.00)</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #6a6a6a" x="343.643135" y="239.409887" transform="rotate(-0 343.643135 239.409887)">n.s. (1.00)</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #6a6a6a" x="351.289388" y="288.970258" transform="rotate(-0 351.289388 288.970258)">n.s. (0.11)</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #1a1a1a" x="399.703254" y="338.441425" transform="rotate(-0 399.703254 338.441425)">7e-8</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 6.6px; font-family: 'Fira Sans'; text-anchor: start; fill: #1a1a1a" x="461.351843" y="359.989412" transform="rotate(-0 461.351843 359.989412)">9e-16</text>
+   </g>
+  </g>
+  <g id="text_54">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'Fira Sans'; text-anchor: start; fill: #1a1a1a" x="15.552" y="19.232303" transform="rotate(-0 15.552 19.232303)">A</text>
+  </g>
+  <g id="text_55">
+   <text style="font-style: italic; font-weight: 700; font-size: 10px; font-family: 'Fira Sans'; text-anchor: start; fill: #5d69b1" x="38.88" y="18.676756" transform="rotate(-0 38.88 18.676756)">An. gambiae</text>
+  </g>
+  <g id="text_56">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'Fira Sans'; text-anchor: start; fill: #1a1a1a" x="321.408" y="19.232303" transform="rotate(-0 321.408 19.232303)">B</text>
+  </g>
+  <g id="text_57">
+   <text style="font-style: italic; font-weight: 700; font-size: 10px; font-family: 'Fira Sans'; text-anchor: start; fill: #e58606" x="344.736" y="18.422069" transform="rotate(-0 344.736 18.422069)">An. coluzzii</text>
+  </g>
+  <g id="legend_1">
+   <g id="line2d_28">
+    <defs>
+     <path id="m717f20488d" d="M -3 3 
+L 3 3 
+L 3 -3 
+L -3 -3 
+z
+" style="stroke: #888888; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#m717f20488d" x="122.829609" y="439.519219" style="fill: #888888; stroke: #888888; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7px; font-family: 'Fira Sans'; text-anchor: start" x="132.629609" y="441.969219" transform="rotate(-0 132.629609 441.969219)">significant (padj &lt; 0.05)</text>
+   </g>
+   <g id="line2d_29">
+    <defs>
+     <path id="mc34124e615" d="M -3 3 
+L 3 3 
+L 3 -3 
+L -3 -3 
+z
+" style="stroke: #888888; stroke-linejoin: miter"/>
+    </defs>
+    <g>
+     <use xlink:href="#mc34124e615" x="224.603047" y="439.519219" style="fill-opacity: 0; stroke: #888888; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7px; font-family: 'Fira Sans'; text-anchor: start" x="234.403047" y="441.969219" transform="rotate(-0 234.403047 441.969219)">not significant, drawn at its value</text>
+   </g>
+   <g id="line2d_30">
+    <path d="M 351.449609 439.519219 
+L 358.449609 439.519219 
+L 365.449609 439.519219 
+" style="fill: none; stroke-dasharray: 2.4,1.6; stroke-dashoffset: 0; stroke: #6a6a6a; stroke-width: 0.8"/>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7px; font-family: 'Fira Sans'; text-anchor: start" x="368.249609" y="441.969219" transform="rotate(-0 368.249609 441.969219)">padj = 0.05</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe17e3aca1a">
+   <rect x="15.552" y="38.2296" width="164.539185" height="335.0712"/>
+  </clipPath>
+  <clipPath id="p6c04a4a345">
+   <rect x="186.453367" y="38.2296" width="148.085266" height="335.0712"/>
+  </clipPath>
+  <clipPath id="pdf6828e0e7">
+   <rect x="340.900815" y="38.2296" width="164.539185" height="335.0712"/>
+  </clipPath>
+ </defs>
+</svg>
